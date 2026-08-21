@@ -1,0 +1,18 @@
+{
+  "name": "RBT Pro Practice Hub",
+  "short_name": "RBT Pro",
+  "description": "Independent RBT competency practice with original questions, flashcards, exam simulations, and progress tracking.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#17221f",
+  "background_color": "#f4f0e8",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "categories": ["education", "productivity"]
+}

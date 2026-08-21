@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RBT Pro">
+  <rect width="64" height="64" rx="13" fill="#17221f"/>
+  <path d="M18 16h17c9 0 14 4 14 11 0 5-3 9-8 10l10 12h-11L31 38h-3v11H18V16Zm10 8v7h7c3 0 5-1 5-4s-2-3-5-3h-7Z" fill="#f4f0e8"/>
+  <circle cx="50" cy="14" r="5" fill="#aa6857"/>
+</svg>
