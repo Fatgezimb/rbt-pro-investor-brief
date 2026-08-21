@@ -1,1 +1,0 @@
-import{j as e}from"./index-BB0UPu2c.js";function n({title:s,children:r}){return e.jsxs("header",{className:"page-header",children:[e.jsx("h1",{children:s}),r?e.jsx("p",{children:r}):null]})}export{n as P};
