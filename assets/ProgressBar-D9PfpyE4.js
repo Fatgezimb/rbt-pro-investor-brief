@@ -1,1 +1,0 @@
-import{j as s}from"./index-X8_TN_NN.js";function o({value:r,label:a}){return s.jsx("div",{className:"progress-bar-wrap","aria-label":a??`${r}% complete`,children:s.jsx("span",{className:"progress-bar-fill",style:{width:`${r}%`}})})}export{o as P};
