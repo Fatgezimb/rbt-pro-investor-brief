@@ -1,0 +1,1 @@
+import{j as r}from"./index-B3cwm1RC.js";function i({value:s,label:e}){const a=Math.min(100,Math.max(0,s));return r.jsx("div",{className:"progress-bar-wrap",role:"progressbar","aria-label":e??`${a}% complete`,"aria-valuemax":100,"aria-valuemin":0,"aria-valuenow":a,children:r.jsx("span",{className:"progress-bar-fill",style:{width:`${a}%`}})})}export{i as P};
