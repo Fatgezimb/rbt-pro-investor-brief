@@ -1,1 +1,0 @@
-import{j as s}from"./index-7s5xC28N.js";function o({value:r,label:a}){return s.jsx("div",{className:"progress-bar-wrap","aria-label":a??`${r}% complete`,children:s.jsx("span",{className:"progress-bar-fill",style:{width:`${r}%`}})})}export{o as P};
